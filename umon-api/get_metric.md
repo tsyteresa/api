@@ -264,9 +264,10 @@
 | **InstanceHyperloglogQPS**   | HyperloglogQPS  | 次/s   |
 | **InstancePubsubQPS**        | PubsubQPS       | 次/s   |
 | **InstanceTransactionQPS**   | TransactionQPS  | 个     |
-| **RedisSinglenodeMaxload**   | 单节点最大负载         | %     |
+| **RedisSinglenodeMaxload**   | 单节点最大负载      | %     |
 | **NICIn**                    | 入带宽             | Bps   |
 | **NICOut**                   | 出带宽             | Bps   |
+| **RedisAvgCPULoad**          | Redis平均负载      | %     |
 
 #### ResourceType:udpn
 
